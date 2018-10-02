@@ -1,0 +1,3 @@
+accuracy.png : accuracy per batch
+ctc_loss.png : ctc loss per batch
+num_err_symbols: num error symbols per batch
