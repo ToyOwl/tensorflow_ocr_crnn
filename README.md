@@ -22,5 +22,7 @@ Sequence Recognition and Its Application to Scene Text Recognition([arXiv:1507.0
 |   7   | convolution |     256     |                |    same     |     2      |
 |   8   | convolution |     256     |                |    same     |     2      |
 
-Метрики:
-![alt text]
+## Метрики
+![batch accuracy](https://github.com/ToyOwl/tensorflow_ocr_crnn/blob/master/imgs/accuracy.PNG)
+![ctc_loss](https://github.com/ToyOwl/tensorflow_ocr_crnn/blob/master/imgs/ctc_loss.PNG)
+![num_error_symbols](https://github.com/ToyOwl/tensorflow_ocr_crnn/blob/master/imgs/num_error_symbols.PNG)
