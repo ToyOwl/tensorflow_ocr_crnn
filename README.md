@@ -2,10 +2,10 @@
 
 
 ## Зависимости 
-  1.python 3.5</br>
-  2.tensorflow 1.10</br>
-  3.opencv 3.2</br>
-  4 Clpatcha</br>
+  1.Python 3.5</br>
+  2.Tensorflow 1.10</br>
+  3.OpenCV 3.2</br>
+  4.Clpatcha</br>
 
 ## Архитектура сети 
 Адаптация сети из статьи n End-to-End Trainable Neural Network for Image-based 
